@@ -65,7 +65,7 @@ class MudiExperience{
                 <defs>
                     <style>
                         .cls-1{
-                            fill:${this.color};
+                            fill:#f4f4f4;
                             opacity:.6;
                         }
                         
@@ -73,10 +73,10 @@ class MudiExperience{
                             stroke-width:0px;
                         }
                         .cls-2{
-                            fill:#f4f4f4;
+                            fill:#143348; 
                         }
                         .cls-3{
-                            fill:${this.color};
+                            fill:#f4f4f4;
                         }
                     </style>
                 </defs>
