@@ -413,7 +413,7 @@ async function verifyDomElement() {
 
 setTimeout(async () => {
     await verifyDomElement();
-    console.log('verficando')
+    console.log('verficandome')
 }, 2000);
 
 
